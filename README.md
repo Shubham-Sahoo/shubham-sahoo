@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer, problem solver
 - 📫 Email: [shubhamsomnath@gmail.com](mailto:shubhamsomnath@gmail.com)  
 - 🔗 LinkedIn: [Shubham-Sahoo](https://www.linkedin.com/in/shubham-sahoo-62819b138)  
 - 🌐 GitHub: [Shubham-Sahoo](https://github.com/Shubham-Sahoo)  
-- 📜 Portfolio: [Shubham-Sahoo](https:shubham-sahoo.github.io) 
+- 📜 Portfolio: [Shubham-Sahoo]([https:shubham-sahoo.github.io](https://shubham-sahoo.github.io/)) 
 
 ---
 
