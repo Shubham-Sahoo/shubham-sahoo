@@ -27,17 +27,14 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer, problem solver
 
 ## 🌟 Featured Projects
 
-### [Autonomous Ground Vehicle](https://github.com/Shubham-Sahoo/eklavya)  
+### [Autonomous Ground Vehicle](https://github.com/AGV-IIT-KGP)  
 - Built `Eklavya 7.0`, a self-driving robot capable of autonomous navigation and obstacle avoidance.  
 - Developed motion control, tuned EKF-based localization, and designed the robot's electronic architecture.
 
-### [Operating Systems Scheduler](https://github.com/Shubham-Sahoo/pintos-scheduler)  
+### [Operating Systems Scheduler](https://github.com/Shubham-Sahoo/Operating-System)  
 - Designed Multilevel Feedback Queue Scheduling in PintOS to enhance performance fairness.  
 - Developed a multiple producer-consumer system using shared memory to avoid deadlocks.
 
-### [AI-Enhanced Robotics Control](https://github.com/Shubham-Sahoo/robotics-ai-control)  
-- Implemented reinforcement learning algorithms for robotic arm control and precision tasks.  
-- Achieved 10% increase in task efficiency using DDPG and SAC algorithms.
 
 ---
 
